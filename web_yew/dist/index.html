@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Web Yew</title>
+        
+<script type="module">
+import init, * as bindings from '/web_yew-3c31e6ae057f3a7f.js';
+const wasm = await init('/web_yew-3c31e6ae057f3a7f_bg.wasm');
+
+
+window.wasmBindings = bindings;
+
+
+dispatchEvent(new CustomEvent("TrunkApplicationStarted", {detail: {wasm}}));
+
+</script>
+        
+    
+<link rel="modulepreload" href="/web_yew-3c31e6ae057f3a7f.js" crossorigin=anonymous integrity="sha384-EZlMnef1f2K5md0oPsrCs9wkLrwstyFblr3Ar04TdpbhcWt4z5+wxkwoE/8aTisb">
+<link rel="preload" href="/web_yew-3c31e6ae057f3a7f_bg.wasm" crossorigin=anonymous integrity="sha384-GMLP8/6si4A9b66WAbYDeGbiC6iq17RxvNHpr4dSMy/BcA5yga6Pj0B8msZYPx9c" as="fetch" type="application/wasm"></head>
+</html>

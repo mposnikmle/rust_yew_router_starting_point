@@ -1,0 +1,10 @@
+/Users/maximilian/Documents/all_things_rust/2024MAY/webdev/first yew project/web_yew/target/wasm32-unknown-unknown/debug/deps/libgetrandom-ee28d19cd267cc99.rmeta: /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/js.rs
+
+/Users/maximilian/Documents/all_things_rust/2024MAY/webdev/first yew project/web_yew/target/wasm32-unknown-unknown/debug/deps/libgetrandom-ee28d19cd267cc99.rlib: /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/js.rs
+
+/Users/maximilian/Documents/all_things_rust/2024MAY/webdev/first yew project/web_yew/target/wasm32-unknown-unknown/debug/deps/getrandom-ee28d19cd267cc99.d: /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/js.rs
+
+/Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs:
+/Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs:
+/Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs:
+/Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/js.rs:

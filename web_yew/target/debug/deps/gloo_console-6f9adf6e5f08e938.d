@@ -1,0 +1,10 @@
+/Users/maximilian/Documents/all_things_rust/2024MAY/webdev/first yew project/web_yew/target/debug/deps/libgloo_console-6f9adf6e5f08e938.rmeta: /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.3.0/src/lib.rs /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.3.0/src/console_dbg.rs /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.3.0/src/counter.rs /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.3.0/src/externs.rs /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.3.0/src/macros.rs /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.3.0/src/timer.rs
+
+/Users/maximilian/Documents/all_things_rust/2024MAY/webdev/first yew project/web_yew/target/debug/deps/gloo_console-6f9adf6e5f08e938.d: /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.3.0/src/lib.rs /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.3.0/src/console_dbg.rs /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.3.0/src/counter.rs /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.3.0/src/externs.rs /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.3.0/src/macros.rs /Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.3.0/src/timer.rs
+
+/Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.3.0/src/lib.rs:
+/Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.3.0/src/console_dbg.rs:
+/Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.3.0/src/counter.rs:
+/Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.3.0/src/externs.rs:
+/Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.3.0/src/macros.rs:
+/Users/maximilian/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.3.0/src/timer.rs:
